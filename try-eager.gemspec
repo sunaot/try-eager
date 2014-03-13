@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["sunaot"]
   spec.email         = ["sunao.tanabe@gmail.com"]
   spec.summary       = %q{Try to run proc repeatedly until options[:until] returns true.}
-  spec.description   = %q{Try to run proc repeatedly until options[:until] returns true.}
-  spec.homepage      = ""
+  spec.description   = %q{}
+  spec.homepage      = "https://github.com/sunaot/try-eager"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
