@@ -1,4 +1,4 @@
-# Try::Eager
+# try-eager
 
 Try to run proc repeatedly until `options[:until]` returns true. Ruby >= 2.0.0 is required.
 
